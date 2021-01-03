@@ -122,3 +122,4 @@ public class SuperKarel extends Karel {
    
 }
 ```
+![[Karel Commands.jpg]]

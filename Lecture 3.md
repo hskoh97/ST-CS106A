@@ -4,7 +4,7 @@ While computers are ultimately the one reading your code, it can be written like
 
 While a program can work even if human can barely understand it, it is hard to make changes in the future. Good programming practices make it easier for people to maintain programs and add new functionalities.
 
-> Programming is not just about writing programs where computers understand, it's about writing programs where people understand. – Mehran Sahami >
+> Programming is not just about writing programs where computers understand, it's about writing programs where people understand. – Mehran Sahami
 
 ### Comments
 A good program should have comments. Comments are commonly used in
