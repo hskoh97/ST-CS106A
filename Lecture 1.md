@@ -1,4 +1,6 @@
 # Programming Methodology #1
+#### Producer: [[Stanford University]] [[Mehran Sahami]]
+#### Date: 2020-12-20
 ## The Debugging Story
 ### The Oldest Story
 Originated from mechanical engineering: fixing mechanical stuffs were called debugging in 1800s.

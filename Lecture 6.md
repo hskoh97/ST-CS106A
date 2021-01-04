@@ -1,4 +1,6 @@
 # Programming Methodology #6
+#### Producer: [[Stanford University]] [[Mehran Sahami]]
+#### Date: 2021-1-3
 ## Receiving User Input
 ```
 int x = readInt("");

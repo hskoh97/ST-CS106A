@@ -1,4 +1,6 @@
 # Programming Methodology #2
+#### Producer: [[Stanford University]] [[Mehran Sahami]]
+#### Date: 2020-12-21
 ## Karel's Commands
 1. move() -> move one step in it's direction
 2. turnLeft() -> turns 90º counterclockwise

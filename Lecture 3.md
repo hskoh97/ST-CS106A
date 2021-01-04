@@ -1,4 +1,6 @@
 # Programming Methodology #3
+#### Producer: [[Stanford University]] [[Mehran Sahami]]
+#### Date: 2020-12-22
 ## Good Programming Practices
 While computers are ultimately the one reading your code, it can be written like English.
 

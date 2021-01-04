@@ -1,4 +1,6 @@
 # Programming Methodology #4
+#### Producer: [[Stanford University]] [[Mehran Sahami]]
+#### Date: 2021-1-1
 ## History of Computing
 
 The first computing device was invented about 4000 years ago: abacus.

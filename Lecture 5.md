@@ -1,4 +1,6 @@
 # Programming Methodology #5
+#### Producer: [[Stanford University]] [[Mehran Sahami]]
+#### Date: 2021-1-2
 ## Variables
 Variable is a box you can stick stuffs in and change it.
 
